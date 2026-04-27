@@ -86,3 +86,21 @@ Permiten modificar el análisis.
 
 ## 🚀 Herramienta utilizada
 - Power BI
+
+---
+
+## 📊 Resultados obtenidos
+- Visualización clara de indicadores clave
+- Identificación de tendencias
+- Análisis dinámico por país y producto
+- Mejor interpretación de los datos
+
+---
+
+## 👤 Autor
+Proyecto académico enfocado en análisis de datos y finanzas.
+
+---
+
+## 📄 Licencia
+Uso académico y educativo.
