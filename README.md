@@ -84,6 +84,5 @@ Permiten modificar el análisis.
 
 ---
 
-## 🚀 Herramientas utilizadas
+## 🚀 Herramienta utilizada
 - Power BI
-- Procesos de limpieza de datos
