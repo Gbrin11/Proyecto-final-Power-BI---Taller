@@ -90,4 +90,4 @@ Permiten modificar el análisis.
 ---
 
 ## Visualizar reporte interactivo
-
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZjYyNjk4NGYtNDM5ZS00NjhjLWI5NzEtZjIxZDViMjJiOTY3IiwidCI6ImUyMGM4NWVhLWUzNDQtNGU1NS1hYTM0LTU3MjlkNWIzOGMxNCIsImMiOjR9">Ver reporte interactivo</a>
