@@ -35,8 +35,8 @@ Se diseñó un panel interactivo para facilitar el análisis de la información.
 ## Funcionalidades del dashboard
 
 ### Indicadores principales
-- Total de ventas: $1.27M  
-- Número de empleados: 830  
+- Total de ventas.  
+- Número de empleados.  
 - País seleccionado (dinámico)
 
 Nota:
